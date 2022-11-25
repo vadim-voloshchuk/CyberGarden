@@ -15,6 +15,7 @@ links = []
 journals = []
 journal_links = []
 catalogs = []
+article_spheres = []
 
 for sphere_IT in spheres:
     raw = requests.post('https://cyberleninka.ru/api/search',
@@ -43,6 +44,7 @@ for sphere_IT in spheres:
         journals.append(one_article['journal'])
         journal_links.append(one_article['journal_link'])
         catalogs.append(one_article['catalogs'])
+        article_spheres.append(sphere_IT)
 
 table = DataFrame({'ID': ids,
                     'Name':names,
@@ -52,6 +54,7 @@ table = DataFrame({'ID': ids,
                     'Links':links,
                     'Journals':journals,
                     'Journal_links':journal_links,
-                    'Catalogs':catalogs})
+                    'Catalogs':catalogs, 
+                    'Сфера ИТ': article_spheres})
 
-table.to_csv('./Leninka.csv')
+table.to_csv('./Leninka_3.csv')
