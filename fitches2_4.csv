@@ -1,0 +1,95 @@
+,title,description,rating,subs,fitcha
+2,DevOps,Software Development Methodology,206.29,1200.0,method
+29,PowerShell,Task automation and configuration management framework,1.8,8500.0,framework
+31,Serverless,Serverless computing technologies,0.5,9600.0,technolog
+68,GTD,Method for increasing personal effectiveness,62.93,6200.0,method
+73,Agile,Flexible development methodology,27.85,1500.0,method
+85,IT Terminology,A hub about IT-terminology: we explain the origin and meaning of certain terms and concepts related to information technology.,8.93,3400.0,technolog
+124,Learning languages,We speak not only in our native language,106.14,1200.0,language
+144,Video equipment,"Video equipment, video processing, video technology",33.89,13300.0,technolog
+175,Telemedicine,Usage of telecommunication and information technology to provide clinical health care from a distance,0.0,200.0,technolog
+181,Python,Interpreted high-level programming language for general-purpose programming,306.27,20500.0,language
+187,C++,"General-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation",156.5,13900.0,language
+190,Java,"General-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible",143.71,18600.0,language
+193,JavaScript,"High-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm",132.32,18600.0,language
+194,High performance,Methods for obtaining systems high performance ,128.3,20200.0,method
+201,C,"General-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations",96.75,11800.0,language
+202,Kubernetes,Framework for working with containerized applications,93.6,3500.0,framework
+208,Go,"Compiled, multithreaded programming language",71.73,7700.0,language
+211,C#,"Multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines",65.55,16900.0,language
+212,Algorithms,Everything about algorithms,59.56,29000.0,algorithm
+214,GPGPU,Nvidia technology for implementing algorithms,40.1,9300.0,algorithm
+218,PHP,"Server-side scripting language designed for Web development, but also used as a general-purpose programming language",51.05,17700.0,language
+220,SQL,"Domain-specific languageused in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system",46.93,17300.0,language
+222,Rust,Multi-Paradigm Compiled Language,47.15,2500.0,language
+234,IT Standards,Standards in Information Technology,33.89,19100.0,technolog
+236,ReactJS,JavaScript library for interfaces creation,31.0,8500.0,library
+238,Assembler,Low-level programming language in which there is a very strong correspondence between the program's statements and the architecture's machine code instructions,26.85,8700.0,language
+242,Yii,"Open source, object-oriented, component-based MVC PHP web application framework",24.33,7700.0,framework
+244,Kotlin,Kotlin is a statically typed programming language,19.97,1100.0,language
+246,VueJS,Progressive JavaScript framework,19.48,6800.0,framework
+247,Mobile applications testing,"Methods, tips, experience",19.32,6700.0,method
+248,Flutter,Cross-platform development framework,17.72,4900.0,framework
+254,Swift,"General-purpose, multi-paradigm, compiled programming language",15.52,7000.0,language
+255,Scala,General-purpose programming language providing support for functional programming and a strong static type system,15.74,8200.0,language
+256,HTML,Standart language of webpages markup,14.12,17400.0,language
+259,Qt,Cross-platform application framework,14.02,8000.0,framework
+264,Angular,JavaScript framework,12.33,11300.0,framework
+266,Natural Language Processing,Computer analysis and synthesis of natural languages,12.29,3800.0,language
+268,F#,"Strongly typed, multi-paradigm programming language",11.7,1700.0,language
+272,Dart,Programming language created by Google,9.5,7300.0,language
+281,ASP,The technology of creating web applications and web services,7.4,8500.0,technolog
+284,Ruby,"Dynamic, interpreted, reflective, object-oriented, general-purpose programming language",7.22,15400.0,language
+289,Regular expressions,Formal search language,6.75,10100.0,language
+295,Ruby on Rails,Server-side web application framework written in Ruby under the MIT License,4.91,14400.0,framework
+300,Django,Web applications framework on Python ,3.5,14800.0,framework
+303,Objective C,"General-purpose, object-oriented programming language",2.95,12400.0,language
+309,Elm,Domain-specific programming language for declaratively creating web browser-based graphical user interfaces,2.0,1300.0,language
+311,Groovy & Grails,Groovy programming language and Grails framework,2.0,7100.0,framework
+312,Delphi,"Imperative, structured, object-oriented programming language with strict static typing of variables",1.87,12900.0,language
+313,Matlab,MATLAB is a multi-paradigm numerical computing environment and proprietary programming language,1.6,2300.0,language
+315,Laravel,"Free, open-source PHP web framework",1.6,3100.0,framework
+316,Hadoop,The framework for distributed applications,1.5,8600.0,framework
+318,Haxe,Oopen source toolkit based on a high level language,1.0,826.0,language
+319,Haskell,"Haskell is a standardized, general-purpose compiled purely functional programming language.",1.0,8200.0,language
+329,UML Design,"General-purpose, developmental, modeling language in the field of software engineering",0.33,7800.0,language
+331,Lua,"Lightweight, multi-paradigm programming language",0.3,7500.0,language
+332,Flask,Micro web framework written in Python,0.24,7000.0,framework
+336,R,R is a programming language and free software environment for statistical computing and graphics,0.2,5500.0,language
+337,Ember.js,JavaScript web framework for web applications,0.0,952.0,framework
+338,SvelteJS,framework for creating fast web-applications,0.0,1600.0,framework
+340,Processing,"Programming sublanguage, based on Java",0.0,966.0,language
+346,CoffeeScript,Programming language that transcompiles to JavaScript,0.0,1500.0,language
+347,Phalcon,High-performance PHP framework,0.0,1400.0,framework
+349,Elixir/Phoenix,A hub about Elixir language and Phoenix Framework,0.0,2400.0,framework
+354,Forth,Imperative stack-based computer programming language,0.0,1600.0,language
+355,Smalltalk,"Object-oriented, dynamically typed, reflective programming language",0.0,2300.0,language
+356,Julia,High-level dynamic programming language,0.0,2500.0,language
+357,WebGL,JavaScript library,0.0,3300.0,library
+358,Meteor.JS,Free and open-source isomorphic JavaScript web framework,0.0,9300.0,framework
+359,D,"D is an object-oriented, imperative, multi-paradigm system programming language",0.0,3300.0,language
+362,Derby.js,Full-stack framework,0.0,3400.0,framework
+367,Fortran,First high-level programming language,0.0,7100.0,language
+369,Cobol,COmmon Business-Oriented Language,0.0,6900.0,language
+379,Prolog,Prolog is a general-purpose logic programming language.,0.0,7200.0,language
+381,LabVIEW,LabVIEW is a system-design platform and development environment for a visual programming language.,0.0,7700.0,language
+386,Mono & Moonlight,Mono is a free and open-source .NET Framework-compatible set of tools.,0.0,8200.0,framework
+388,Twisted,Event-driven network programming framework,0.0,7100.0,framework
+389,Erlang/OTP,"General-purpose, concurrent, functional programming language",0.0,8100.0,language
+391,XSLT,A language for transforming XML documents,0.0,7600.0,language
+395,Small Basic,Very simple programming language,0.0,7700.0,language
+396,Kohana,PHP5 open-source framework,0.0,13800.0,framework
+397,Developmend for Java ME,Everything about J2ME-technologies,0.0,8200.0,technolog
+399,MooTools,Free JavaScript-framework,0.0,7100.0,framework
+402,Lisp,Oldest high-level programming language,0.0,8000.0,language
+403,Zend Framework,Free web development framework,0.0,7400.0,framework
+404,ExtJS/Sencha,JavaScript library,0.0,7500.0,library
+406,CodeIgniter,An open-source MVC-framework.,0.0,7200.0,framework
+407,jQuery,Popular JavaScript library,0.0,9500.0,library
+408,Silverlight,"Microsoft Silverlight (or simply Silverlight) is a deprecated application framework for writing and running rich Internet applications, similar to Adobe Flash.",0.0,8000.0,framework
+412,Eclipse,Free framework,0.0,7600.0,framework
+413,CakePHP,A framework for creating web-applications,0.0,13700.0,framework
+419,Perl,"Perl is a high-level, interpreted, dynamic programming language.",-0.8,14800.0,language
+420,Google App Engine,A web framework and cloud computing platform for developing and hosting web applications,-1.0,8300.0,framework
+421,Solidity,Solidity is a contract-oriented programming language for writing smart contracts on blockchain platforms such as Ethereum,-1.53,1900.0,language
+424,XML,Extensible Markup Language,-3.67,8500.0,language
