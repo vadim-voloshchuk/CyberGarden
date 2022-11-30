@@ -23,7 +23,7 @@ def index():
 @app.route("/get_fithces_search", methods=['POST'])
 def get_datas():
     data = get_all_fithes()
-    clf = load(open("review.pkl", "rb")) 
+    clf = load(open("LangClassifier.pkl", "rb")) 
     res = clf.predict([request.get_json(force=True)['text']])[0]
     print(res)
     
